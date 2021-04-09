@@ -1,4 +1,4 @@
-# Portoflio
+# Portfolio
 
 Portfolio page programed in Python and HTML \
 Made using Flask \
